@@ -20,10 +20,10 @@
               "src/assets"
             ],
             "styles": [
-              "node_modules/@coreui/icons/css/coreui-icons.css",
-              "node_modules/flag-icon-css/css/flag-icon.css",
-              "node_modules/font-awesome/css/font-awesome.css",
-              "node_modules/simple-line-icons/css/simple-line-icons.css",
+              "https://github.com/coreui/coreui-icons/tree/master/css/coreui-icons.css",
+              "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/css/flag-icon.css",
+              "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css",
+              "https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.4.1/css/simple-line-icons.css",
               "src/scss/style.scss"
             ],
             "stylePreprocessorOptions": {
